@@ -1,0 +1,62 @@
+com/b1/ministore/entities/DiscountDeal.java
+ com.b1.ministore.entities.DiscountDeal
+com/b1/ministore/api/UpdateProductRequest.java
+ com.b1.ministore.api.UpdateProductRequest
+com/b1/ministore/controllers/DeleteProductRequest.java
+ com.b1.ministore.controllers.DeleteProductRequest
+com/b1/ministore/daos/ShoppingCartDAO.java
+ com.b1.ministore.daos.ShoppingCartDAO
+com/b1/ministore/api/NewDealResponse.java
+ com.b1.ministore.api.NewDealResponse
+com/b1/ministore/services/ShoppingCartService.java
+ com.b1.ministore.services.ShoppingCartService
+com/b1/ministore/daos/DealDAO.java
+ com.b1.ministore.daos.DealDAO
+com/b1/ministore/api/CreateBundleDealRequest.java
+ com.b1.ministore.api.CreateBundleDealRequest
+com/b1/ministore/api/UpdateProductItemsRequest.java
+ com.b1.ministore.api.UpdateProductItemsRequest
+com/b1/ministore/api/CreateProductResponse.java
+ com.b1.ministore.api.CreateProductResponse
+com/b1/ministore/controllers/ProductManagementController.java
+ com.b1.ministore.controllers.ProductManagementController
+com/b1/ministore/api/UpdateProductResponse.java
+ com.b1.ministore.api.UpdateProductResponse
+com/b1/ministore/api/CheckoutItem.java
+ com.b1.ministore.api.CheckoutItem
+com/b1/ministore/services/ProductManagementService.java
+ com.b1.ministore.services.ProductManagementService
+com/b1/ministore/api/CheckoutResponse.java
+ com.b1.ministore.api.CheckoutResponse
+com/b1/ministore/entities/Deal.java
+ com.b1.ministore.entities.Deal
+com/b1/ministore/api/RemoveDealRequest.java
+ com.b1.ministore.api.RemoveDealRequest
+com/b1/ministore/api/CreateProductRequest.java
+ com.b1.ministore.api.CreateProductRequest
+com/b1/ministore/services/PaymentService.java
+ com.b1.ministore.services.PaymentService
+com/b1/ministore/controllers/DealsManagementController.java
+ com.b1.ministore.controllers.DealsManagementController
+com/b1/ministore/daos/ProductDAO.java
+ com.b1.ministore.daos.ProductDAO
+com/b1/ministore/api/NewDealRequest.java
+ com.b1.ministore.api.NewDealRequest
+com/b1/ministore/api/CheckoutRequest.java
+ com.b1.ministore.api.CheckoutRequest
+com/b1/ministore/entities/Product.java
+ com.b1.ministore.entities.Product
+com/b1/ministore/entities/ShoppingCart.java
+ com.b1.ministore.entities.ShoppingCart
+com/b1/ministore/entities/BundleDeal.java
+ com.b1.ministore.entities.BundleDeal
+com/b1/ministore/controllers/ShoppingCartController.java
+ com.b1.ministore.controllers.ShoppingCartController
+com/b1/ministore/services/DealsManagementService.java
+ com.b1.ministore.services.DealsManagementService
+com/b1/ministore/controllers/PaymentController.java
+ com.b1.ministore.controllers.PaymentController
+com/b1/ministore/api/CreateDiscountDealRequest.java
+ com.b1.ministore.api.CreateDiscountDealRequest
+com/b1/ministore/MiniStoreApplication.java
+ com.b1.ministore.MiniStoreApplication
